@@ -16,6 +16,6 @@ que pode ser baixado em http://forge.jboss.org/download
 
 http://www.jboss.org/products/devstudio/download/
 
-#### Wildfly 8x
+#### Wildfly 8.2.0 Final
 
 https://www.wildfly.org/downloads/
