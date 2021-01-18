@@ -11,3 +11,11 @@ que pode ser baixado em http://forge.jboss.org/download
 #### faces-setup --facesVersion 2.2
 
 #### cdi-setup --cdiVersion 1.1
+
+#### Developer Studio Red Hat
+
+http://www.jboss.org/products/devstudio/download/
+
+#### Wildfly 8.2.0 Final
+
+https://www.wildfly.org/downloads/
