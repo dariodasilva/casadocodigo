@@ -9,12 +9,18 @@ public class AdminBooksBean {
 	
 	private Book product = new Book();
 	
+	@Inject
+	private BookDAO bookDAO = new BookDAO();
+
 	public void save(){
-		System.out.println(product);
+		bookDAO.save(product);
 		}
 	
+//	public void save(){
+//		System.out.println(product);
+//		}
+	
 	public Book getProduct() {
-		product.getDescription();	
 		return product;
 		}
 	
