@@ -18,16 +18,9 @@ public class AdminBooksBean {
 		bookDAO.save(product);
 		}
 	
-//	public void save(){
-//		System.out.println(product);
-//		}
-	
 	public Book getProduct() {
 		return product;
 		}
 	
-//	public void save(){
-//		System.out.println("Precisamos salvar o livro!!");
-//	}
 
 }
